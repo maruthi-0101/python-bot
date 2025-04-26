@@ -29,4 +29,4 @@ intents.message_content = True
 client = MyClient(intents=intents)
 
 # Run bot
-client.run('MTM2NTM3MDQwNjYwOTA5MjczOQ.GlvRjI.YjT537ku29tyN992Ey2BoLRaAYY2n1bgyjpwYE')   # (Don't expose real token)
+client.run('YOUR-TOKEN')   # (Don't expose real token)
